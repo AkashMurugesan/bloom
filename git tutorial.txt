@@ -1,4 +1,10 @@
-welcome to git tutorial
+come to git tutorial
 
 ---->git created by linus torvald(he created a linux kernel)
 ---->git is distrubuted version control system
+
+
+---->using git with
+     *git hub
+     *git lab
+     *bit bucket
