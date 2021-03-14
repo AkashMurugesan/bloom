@@ -2,3 +2,5 @@ welcome to git tutorial
 
 ---->git created by linus torvald(he created a linux kernel)
 ---->git is distrubuted version control system
+---->used for trunk based development
+     ---->using branches to save your older version codes
