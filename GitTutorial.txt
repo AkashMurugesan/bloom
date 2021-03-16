@@ -8,4 +8,39 @@ welcome to git tutorial
      *git hub
      *git lab
      *bit bucket
-     
+
+Git Commands 
+
+cd <folder_name> => To choose a remote repo folder
+
+git init => To initiate git repo
+
+git branch => To list out all the branches
+
+git branch <branch_name> => Initiate new branch
+
+git checkout <branch_name> => To go to that branch 
+
+git remote -v => To list out all the remote repo
+
+git remote add <remote_name> <repo_link> => To create a remote for given repo_link
+
+git remote rm <remote_name> => To remove local remote of a repo
+
+git add . => To add all the file changes 
+
+git add <file_name> => To add the mentioned file name
+
+git commit -m <"commit_name"> => To commit the added files with commit name
+
+git push <remote_name> <branch_name> => To push the changes from the local repo to remote repo
+
+git branch -d <branch_name> => To remove local branch of the repo
+
+git push <remote_name> --delete <branch_name> => To delete the branch from the remote repo and the files
+
+touch <file_name> => To create a new file
+
+echo "<contents>" >> <file_name> => To add contents to the file name
+
+git status => To know the current status and position
