@@ -44,3 +44,5 @@ touch <file_name> => To create a new file
 echo "<contents>" >> <file_name> => To add contents to the file name
 
 git status => To know the current status and position
+
+git checkout -b <branch>
