@@ -45,4 +45,4 @@ echo "<contents>" >> <file_name> => To add contents to the file name
 
 git status => To know the current status and position
 
-git checkout -b <branch>
+git checkout -b <branch> => create new branch and check out old branch
